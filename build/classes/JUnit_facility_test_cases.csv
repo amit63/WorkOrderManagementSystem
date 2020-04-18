@@ -1,0 +1,15 @@
+1,addfacility,,,Please correct the following errors,this field required,this field required,Indoor,60
+2,addfacility,Building 1,,Please correct the following errors,,this field required,Indoor,60
+3,addfacility,Building 1,10,Please correct the following errors,,Facility Name must between 3 and 7 characters,Indoor,60
+4,addfacility,Building 1,101,,,,Indoor,60
+5,addfacility,Multipurpose Rooms Multipurpose Rooms ,MR123456,Please correct the following errors,,Facility Name must between 3 and 7 characters,Indoor,60
+6,addfacility,Multipurpose Rooms Multipurpose Rooms Multipurpos,MR1234,,,,Indoor,120
+7,addfacility,RoomsR,mR1,Please correct the following errors,,Your Facility Name must start with a Uppercase,Indoor,120
+8,addfacility,,IBBC1,Please correct the following errors,this field required,,Outdoor,120
+9,addfacility,Rooms,IBBC1,,,,Outdoor,120
+10,addfacility,Indo,IBBC2,Please correct the following errors,Facility Type must between 5 and 50 characters,,Outdoor,120
+11,addfacility,Multipurpose Rooms Multipurpose Rooms Multipurpos51,IBBC3,Please correct the following errors,Facility Type must between 5 and 50 characters,,Outdoor,120
+12,addfacility,multipurpose rooms,IBBC4,Please correct the following errors,Your Facility Type must start with a Uppercase,,Outdoor,30
+13,addfacility,Multipurpose Rooms Multipurpose Rooms Multipurpos,IBB,,,,Outdoor,30
+14,addfacility,Multipurpose Rooms Multipurpose Rooms Multipurpos,IBBC123,,,,Outdoor,30
+15,addfacility,Multipurpose Rooms Multipurpose Rooms Multipurpos5,IBB,,,,Outdoor,30
